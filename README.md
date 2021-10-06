@@ -1,2 +1,2 @@
 # Algortimos
- Exercicios e contéudos do curso de Algortimos propostos Curso em Vídeo - Gustavo Guanabara
+Conteúdos e Exercícios propostos - Curso em Vídeo - Gustavo Guanabara
